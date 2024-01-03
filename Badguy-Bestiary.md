@@ -18,6 +18,19 @@ Badguy gameplay description...
 | Burnable       | yes    |
 | Freezable      | yes    |
 
+-----
+
+### Content List
+
+1. Icy Island
+   - Snow Family
+2. Rooted Forest
+   - Flora
+   - Fauna
+3. Miscellaneous
+   - Jumpy
+   - Crusher
+   - Bomb Units
 
 -----
 
@@ -217,6 +230,8 @@ Vicious Ivy
 
 ![](images/badguys/vicious_ivy.gif)
 ![](images/badguys/vicious_ivy_glide.gif)
+![](images/badguys/vicious_ivy_corrupted.gif)
+![](images/badguys/vicious_ivy_glide_corrupted.gif)
 
 Character description...
 
@@ -238,6 +253,8 @@ Walking Leaf
 
 ![](images/badguys/walking_leaf.gif)
 ![](images/badguys/walking_leaf_glide.gif)
+![](images/badguys/walking_leaf_corrupted.gif)
+![](images/badguys/walking_leaf_glide_corrupted.gif)
 
 Character description...
 
@@ -258,6 +275,7 @@ Leafshot
 ========
 
 ![](images/badguys/leafshot.gif)
+![](images/badguys/leafshot_corrupted.gif)
 
 Character description...
 
@@ -279,6 +297,7 @@ Mr. Tree
 
 ![](images/badguys/mr_tree.gif)
 ![](images/badguys/stumpy.gif)
+![](images/badguys/mr_tree_corrupted.gif)
 
 Character description...
 
@@ -299,6 +318,7 @@ Snail
 =====
 
 ![](images/badguys/snail.gif)
+![](images/badguys/snail_corrupted.gif)
 
 Character description...
 
@@ -319,6 +339,7 @@ Igel
 ====
 
 ![](images/badguys/igel.gif)
+![](images/badguys/igel_corrupted.gif)
 
 Character description...
 
@@ -339,6 +360,7 @@ Mole
 ====
 
 ![](images/badguys/mole.gif)
+![](images/badguys/root_sapling.gif)
 
 Character description...
 
@@ -495,21 +517,63 @@ Mr. Bomb Senior acts the exact same as Mr. Bomb, the only difference being that 
 | Freezable      | yes    |
 
 
-Jumpy
-=====
+Haywire
+=======
 
-![](images/badguys/snowjumpy.png)
-![](images/badguys/woodjumpy.png)
-![](images/badguys/corruptjumpy.png)
-![](images/badguys/metaljumpy.png)
+![](images/badguys/haywire.gif)
+![](images/badguys/haywire_enraged.gif)
 
-Jumpy is a really a person but a common title used to discribe those using a spring mechanicsm to achive impressive height. In Icy Island this tile was giving to the snowballs using a modfied "Spiky" armor to imcorporate a spring. The ones in Rooted Forest are a mystery to many. It is unclear who or what they are as they don't really seem faced by the corruption taking a hold of some of them. All that is known about them is that they arrived soon after Nolok sat foot on that part of the world. Metaljumpy are of Nolok's own design, inspured by the original Totemjumpy from his home.
+Haywire is a funny little fellow who appears to the most joyful of all the bombs. That is only partly true as Haywire also seems to suffer some being rather easily infuriated. The slightest touch will turn their jolly nature into a vilont outburst of anger that can affect anyone involved. It is adicved to not stand in their way if you find yourself near an enraged Haywire as they WILL know no mercy. If you are the one to have enraged them, your best chance of surivival is to run as fast as you can to not surcome to their kamikaze attempt.
 
 ---
 
 ### Behavior During Gameplay
 
-Jumpy simply bounces up and down on a stationary spot, being harmful to Tux due to their spiky shell.
+Hawyire walks back and forth, turning around when approaching ledges. Jumping on them will light their fuse, enraging them. Once lit Haywire will begin chasing down Tux for 5 seconds before they ultimatly explode. While chasing Tux they will kill most enemies they come across, with a few exceptions. If they run into another bomb, both will detonate on touch!
+
+| Property       | Status |
+|----------------|--------|
+| Squishable     | yes    |
+| Buttjumpable   | yes    |
+| Burnable       | yes    |
+| Freezable      | yes    |
+
+
+Gold Bomb
+=========
+
+![](images/badguys/gold_bomb.gif)
+![](images/badguys/gold_bomb_scared.gif)
+
+Gold Bomb
+
+---
+
+### Behavior During Gameplay
+
+Gold Bomb acts the exact same as Mr. Bomb, however, when approached by either Tux or a lit Bomb of any kind they will attempt to run away and flee the scene.
+
+| Property       | Status |
+|----------------|--------|
+| Squishable     | yes    |
+| Buttjumpable   | yes    |
+| Burnable       | yes    |
+| Freezable      | yes    |
+
+
+Dive Mine
+=========
+
+![](images/badguys/dive_mine.gif)
+![](images/badguys/dive_mine_ticking.gif)
+
+Dive Mine are Nolok's aquatic bomb unit. Considering not much is happening in the water most of time they are very eager when something finally happens. Where as Haywire despies any form of unauthorized touch, Dive Mine are almost seeking out attention. Despite those differences both Dive Mine and Haywire would consider the other their best friend.
+
+---
+
+### Behavior During Gameplay
+
+Dive Mine remains stationary in the water floating up and down ever so slightly. If in range they will slowly paddle their towards Tux, detonating upon contact.
 
 | Property       | Status |
 |----------------|--------|
@@ -518,50 +582,22 @@ Jumpy simply bounces up and down on a stationary spot, being harmful to Tux due 
 | Burnable       | yes    |
 | Freezable      | yes    |
 
+Short Fuse
+==========
 
-Jumpy
-=====
+![](images/badguys/short_fuse.gif)
 
-![](images/badguys/snowjumpy.png)
-![](images/badguys/woodjumpy.png)
-![](images/badguys/corruptjumpy.png)
-![](images/badguys/metaljumpy.png)
-
-Jumpy is a really a person but a common title used to discribe those using a spring mechanicsm to achive impressive height. In Icy Island this tile was giving to the snowballs using a modfied "Spiky" armor to imcorporate a spring. The ones in Rooted Forest are a mystery to many. It is unclear who or what they are as they don't really seem faced by the corruption taking a hold of some of them. All that is known about them is that they arrived soon after Nolok sat foot on that part of the world. Metaljumpy are of Nolok's own design, inspured by the original Totemjumpy from his home.
+Short Fuse is a rather harmless little guy. Looking like a baby version of Mr. Bomb, most of the other bomb units treat them constantly like a child. That does not mean they bully them for being the small one but rather that tned to forget that even they can demonstare a good amount of force once detonated. Maybe not in distruction but in knockback.
 
 ---
 
 ### Behavior During Gameplay
 
-Jumpy simply bounces up and down on a stationary spot, being harmful to Tux due to their spiky shell.
+Short Fuse walks back and forth, turning around when approaching ledges. Jumping on them will detonate them immideatly. However, instead of exploding Short Fuse will pop pushing Tux away
 
 | Property       | Status |
 |----------------|--------|
-| Squishable     | no     |
-| Buttjumpable   | no     |
-| Burnable       | yes    |
-| Freezable      | yes    |
-
-
-Jumpy
-=====
-
-![](images/badguys/snowjumpy.png)
-![](images/badguys/woodjumpy.png)
-![](images/badguys/corruptjumpy.png)
-![](images/badguys/metaljumpy.png)
-
-Jumpy is a really a person but a common title used to discribe those using a spring mechanicsm to achive impressive height. In Icy Island this tile was giving to the snowballs using a modfied "Spiky" armor to imcorporate a spring. The ones in Rooted Forest are a mystery to many. It is unclear who or what they are as they don't really seem faced by the corruption taking a hold of some of them. All that is known about them is that they arrived soon after Nolok sat foot on that part of the world. Metaljumpy are of Nolok's own design, inspured by the original Totemjumpy from his home.
-
----
-
-### Behavior During Gameplay
-
-Jumpy simply bounces up and down on a stationary spot, being harmful to Tux due to their spiky shell.
-
-| Property       | Status |
-|----------------|--------|
-| Squishable     | no     |
-| Buttjumpable   | no     |
+| Squishable     | yes    |
+| Buttjumpable   | yes    |
 | Burnable       | yes    |
 | Freezable      | yes    |
