@@ -42,9 +42,10 @@ Method | Explanation
 `has_grabbed(string name)` | Returns whether the player is carrying a certain object. <br /><br /> `name` - Name of the portable object to check for. 
 `get_velocity_x()` | Returns Tux’s velocity in X direction. 
 `get_velocity_y()` | Returns Tux’s velocity in Y direction. 
+`set_velocity(float x, float y)` | Sets the velocity of the player to a programmable/variable speed. <br /><br /> `x` - The speed Tux will move on the x axis. <br /> `y` - The speed Tux will move on the y axis. 
 `get_x()` | Gets the X coordinate of the player. 
 `get_y()` | Gets the Y coordinate of the player. 
-`set_pos()` | Sets the position of the player to a programmable/variable position. 
+`set_pos(float x, float y)` | Sets the position of the player to a programmable/variable position. <br /><br /> `x` - X position. <br /> `y` - Y position. 
 `get_action()` | Gets the player's current action/animation. 
 `get_input_pressed(string input)` | Gets whether the current input on the keyboard/controller/touchpad has been pressed. <br /><br /> `input` - Can be “left”, “right”, “up”, “down”, “jump”, “action”, “start”, “escape”, “menu-select”, “menu-select-space”, “menu-back”, “remove”, “cheat-menu”, “debug-menu”, “console”, “peek-left”, “peek-right”, “peek-up” or “peek-down”. 
 `get_input_held(string input)` | Gets whether the current input on the keyboard/controller/touchpad is being held. <br /><br /> `input` - Valid values are listed above. 
