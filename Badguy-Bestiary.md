@@ -18,6 +18,7 @@ Badguy gameplay description...
 | Burnable       | yes    |
 | Freezable      | yes    |
 
+
 -----
 
 # Snow Family
@@ -203,5 +204,364 @@ Spiky behaves exactly like a Mr. Snowball but is immune to jumping and buttjumpi
 |----------------|--------|
 | Squishable     | yes    |
 | Buttjumpable   | yes    |
+| Burnable       | yes    |
+| Freezable      | yes    |
+
+
+---
+
+# Rooted Forest
+
+Vicious Ivy
+===========
+
+![](images/badguys/vicious_ivy.gif)
+![](images/badguys/vicious_ivy_glide.gif)
+
+Character description...
+
+---
+
+### Behavior During Gameplay
+
+Badguy gameplay description...
+
+| Property       | Status |
+|----------------|--------|
+| Squishable     | yes    |
+| Buttjumpable   | yes    |
+| Burnable       | yes    |
+| Freezable      | yes    |
+
+Walking Leaf
+============
+
+![](images/badguys/walking_leaf.gif)
+![](images/badguys/walking_leaf_glide.gif)
+
+Character description...
+
+---
+
+### Behavior During Gameplay
+
+Badguy gameplay description...
+
+| Property       | Status |
+|----------------|--------|
+| Squishable     | yes    |
+| Buttjumpable   | yes    |
+| Burnable       | yes    |
+| Freezable      | yes    |
+
+Leafshot
+========
+
+![](images/badguys/leafshot.gif)
+
+Character description...
+
+---
+
+### Behavior During Gameplay
+
+Badguy gameplay description...
+
+| Property       | Status |
+|----------------|--------|
+| Squishable     | yes    |
+| Buttjumpable   | yes    |
+| Burnable       | yes    |
+| Freezable      | yes    |
+
+Mr. Tree
+========
+
+![](images/badguys/mr_tree.gif)
+![](images/badguys/stumpy.gif)
+
+Character description...
+
+---
+
+### Behavior During Gameplay
+
+Badguy gameplay description...
+
+| Property       | Status |
+|----------------|--------|
+| Squishable     | yes    |
+| Buttjumpable   | yes    |
+| Burnable       | yes    |
+| Freezable      | yes    |
+
+Snail
+=====
+
+![](images/badguys/snail.gif)
+
+Character description...
+
+---
+
+### Behavior During Gameplay
+
+Badguy gameplay description...
+
+| Property       | Status |
+|----------------|--------|
+| Squishable     | yes    |
+| Buttjumpable   | yes    |
+| Burnable       | yes    |
+| Freezable      | yes    |
+
+Igel
+====
+
+![](images/badguys/igel.gif)
+
+Character description...
+
+---
+
+### Behavior During Gameplay
+
+Badguy gameplay description...
+
+| Property       | Status |
+|----------------|--------|
+| Squishable     | yes    |
+| Buttjumpable   | yes    |
+| Burnable       | yes    |
+| Freezable      | yes    |
+
+Mole
+====
+
+![](images/badguys/mole.gif)
+
+Character description...
+
+---
+
+### Behavior During Gameplay
+
+Badguy gameplay description...
+
+| Property       | Status |
+|----------------|--------|
+| Squishable     | yes    |
+| Buttjumpable   | yes    |
+| Burnable       | yes    |
+| Freezable      | yes    |
+
+Owl
+===
+
+![](images/badguys/owl.gif)
+
+Character description...
+
+---
+
+### Behavior During Gameplay
+
+Badguy gameplay description...
+
+| Property       | Status |
+|----------------|--------|
+| Squishable     | yes    |
+| Buttjumpable   | yes    |
+| Burnable       | yes    |
+| Freezable      | yes    |
+
+Zeekling
+========
+
+![](images/badguys/zeekling.gif)
+
+Character description...
+
+---
+
+### Behavior During Gameplay
+
+Badguy gameplay description...
+
+| Property       | Status |
+|----------------|--------|
+| Squishable     | yes    |
+| Buttjumpable   | yes    |
+| Burnable       | yes    |
+| Freezable      | yes    |
+
+---
+
+# Miscellaneous
+
+Miscellaneous badguys can appear and be encountered in any world. Some of them dawn different looks however remain the same otherwise.
+
+Jumpy
+=====
+
+![](images/badguys/snowjumpy.png)
+![](images/badguys/woodjumpy.png)
+![](images/badguys/corruptjumpy.png)
+![](images/badguys/metaljumpy.png)
+
+Jumpy is a really a person but a common title used to discribe those using a spring mechanicsm to achive impressive height. In Icy Island this tile was giving to the snowballs using a modfied "Spiky" armor to imcorporate a spring. The ones in Rooted Forest are a mystery to many. It is unclear who or what they are as they don't really seem faced by the corruption taking a hold of some of them. All that is known about them is that they arrived soon after Nolok sat foot on that part of the world. Metaljumpy are of Nolok's own design, inspured by the original Totemjumpy from his home.
+
+---
+
+### Behavior During Gameplay
+
+Jumpy simply bounces up and down on a stationary spot, being harmful to Tux due to their spiky shell.
+
+| Property       | Status |
+|----------------|--------|
+| Squishable     | no     |
+| Buttjumpable   | no     |
+| Burnable       | yes    |
+| Freezable      | yes    |
+
+Crusher
+=======
+
+![](images/badguys/crusher_ice_krush.png)
+![](images/badguys/crusher_ice_krosh.png)
+![](images/badguys/crusher_rock_krush.png)
+![](images/badguys/crusher_rock_krosh.png)
+![](images/badguys/crusher_root_krush.png)
+![](images/badguys/crusher_root_krosh.png)
+
+Through out all different evirnoments, sentient creatures formed of the ground surrunding them, known as Crusher can be found. With their watchful eyes, they scan the enviornment waiting for the right moment to strike. Some say depending on where they're from their personallity is what sets them appart... not sure if that is true though.
+
+---
+
+### Behavior During Gameplay
+
+A Crusher will wait for Tux to walk right underneeth them and move towards them at incredible speeds.
+There are also variants which will only trigger when standing to their left or right, commonly referred to as a "Side Crusher".
+
+The **Corrupted Crusher** type is the only Crusher with an additional attack. When their body hits the ground or a wall, three roots will be summoned to its left and right (above and below for Side Crusher!) piercing through the ground and retracting soon after.
+
+| Property       | Status |
+|----------------|--------|
+| Squishable     | no     |
+| Buttjumpable   | no     |
+| Burnable       | no     |
+| Freezable      | no     |
+
+
+Mr. Bomb
+========
+
+![](images/badguys/mr_bomb.gif)
+
+Mr. Bomb is the most common bomb type of Nolok's forces. Like all others, they we're contructed in the Bomb Factory, succeeding their original model.
+
+---
+
+### Behavior During Gameplay
+
+Mr. Bomb walks back and forth, turning around when approaching ledges. Jumping on them will light their fuse. Once lit Tux can carry them around and throw them at other enemies or crates, heavy crates or weak tiles to destroy them. A lit Mr. Bomb will detonate in about 4 seconds.
+
+| Property       | Status |
+|----------------|--------|
+| Squishable     | yes    |
+| Buttjumpable   | yes    |
+| Burnable       | yes    |
+| Freezable      | yes    |
+
+
+Mr. Bomb "Senior"
+=================
+
+![](images/badguys/old_bomb.gif)
+
+The original Mr. Bomb a.k.a. "Old Bomb" or "Mr. Bomb Senior" is the very first bomb ever created by Nolok during his time in Tropical Paradise. They were used during the heist in Granito Stronghold to steal and claim the Corrupted Sceptre. They are a very proud bomb often shown in rough comments of "encouragment" towards the other, newer bomb types to be better. Specifically current Mr. Bomb gets it the worst due to them sharing the same name, being their direct successor model.
+
+---
+
+### Behavior During Gameplay
+
+Mr. Bomb Senior acts the exact same as Mr. Bomb, the only difference being that their fuse takes much less time to explode.
+
+| Property       | Status |
+|----------------|--------|
+| Squishable     | yes    |
+| Buttjumpable   | yes    |
+| Burnable       | yes    |
+| Freezable      | yes    |
+
+
+Jumpy
+=====
+
+![](images/badguys/snowjumpy.png)
+![](images/badguys/woodjumpy.png)
+![](images/badguys/corruptjumpy.png)
+![](images/badguys/metaljumpy.png)
+
+Jumpy is a really a person but a common title used to discribe those using a spring mechanicsm to achive impressive height. In Icy Island this tile was giving to the snowballs using a modfied "Spiky" armor to imcorporate a spring. The ones in Rooted Forest are a mystery to many. It is unclear who or what they are as they don't really seem faced by the corruption taking a hold of some of them. All that is known about them is that they arrived soon after Nolok sat foot on that part of the world. Metaljumpy are of Nolok's own design, inspured by the original Totemjumpy from his home.
+
+---
+
+### Behavior During Gameplay
+
+Jumpy simply bounces up and down on a stationary spot, being harmful to Tux due to their spiky shell.
+
+| Property       | Status |
+|----------------|--------|
+| Squishable     | no     |
+| Buttjumpable   | no     |
+| Burnable       | yes    |
+| Freezable      | yes    |
+
+
+Jumpy
+=====
+
+![](images/badguys/snowjumpy.png)
+![](images/badguys/woodjumpy.png)
+![](images/badguys/corruptjumpy.png)
+![](images/badguys/metaljumpy.png)
+
+Jumpy is a really a person but a common title used to discribe those using a spring mechanicsm to achive impressive height. In Icy Island this tile was giving to the snowballs using a modfied "Spiky" armor to imcorporate a spring. The ones in Rooted Forest are a mystery to many. It is unclear who or what they are as they don't really seem faced by the corruption taking a hold of some of them. All that is known about them is that they arrived soon after Nolok sat foot on that part of the world. Metaljumpy are of Nolok's own design, inspured by the original Totemjumpy from his home.
+
+---
+
+### Behavior During Gameplay
+
+Jumpy simply bounces up and down on a stationary spot, being harmful to Tux due to their spiky shell.
+
+| Property       | Status |
+|----------------|--------|
+| Squishable     | no     |
+| Buttjumpable   | no     |
+| Burnable       | yes    |
+| Freezable      | yes    |
+
+
+Jumpy
+=====
+
+![](images/badguys/snowjumpy.png)
+![](images/badguys/woodjumpy.png)
+![](images/badguys/corruptjumpy.png)
+![](images/badguys/metaljumpy.png)
+
+Jumpy is a really a person but a common title used to discribe those using a spring mechanicsm to achive impressive height. In Icy Island this tile was giving to the snowballs using a modfied "Spiky" armor to imcorporate a spring. The ones in Rooted Forest are a mystery to many. It is unclear who or what they are as they don't really seem faced by the corruption taking a hold of some of them. All that is known about them is that they arrived soon after Nolok sat foot on that part of the world. Metaljumpy are of Nolok's own design, inspured by the original Totemjumpy from his home.
+
+---
+
+### Behavior During Gameplay
+
+Jumpy simply bounces up and down on a stationary spot, being harmful to Tux due to their spiky shell.
+
+| Property       | Status |
+|----------------|--------|
+| Squishable     | no     |
+| Buttjumpable   | no     |
 | Burnable       | yes    |
 | Freezable      | yes    |
