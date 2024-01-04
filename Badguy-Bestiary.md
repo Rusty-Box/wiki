@@ -436,8 +436,8 @@ Crusher
 ![](images/badguys/crusher_ice_krosh.png)
 ![](images/badguys/crusher_rock_krush.png)
 ![](images/badguys/crusher_rock_krosh.png)
-![](images/badguys/crusher_root_krush.png)
-![](images/badguys/crusher_root_krosh.png)
+![](images/badguys/crusher_corrupt_krush.png)
+![](images/badguys/crusher_corrupt_krosh.png)
 
 Through out all different evirnoments, sentient creatures formed of the ground surrunding them, known as Crusher can be found. With their watchful eyes, they scan the enviornment waiting for the right moment to strike. Some say depending on where they're from their personallity is what sets them appart... not sure if that is true though.
 
