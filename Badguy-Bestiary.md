@@ -199,28 +199,6 @@ Spiky behaves exactly like a Mr. Snowball but is immune to jumping and buttjumpi
 | Burnable       | yes    |
 | Freezable      | yes    |
 
-Snowjumpy
----------
-
-![](images/badguys/spiky.gif)
-![](images/badguys/sleeping_spiky.png)
-
-The Spiky unit are a group of Snowballs that decided to wear protective armor that would encourage attackers to stay away to not hurt them selves. If it weren't for some of their members to be quite know for their sleepy-ness their reputation would be a bit stronger overall. Oh well, you win some, you loose some.
-
----
-
-### Behavior During Gameplay
-
-Spiky behaves exactly like a Mr. Snowball but is immune to jumping and buttjumping on them and harm the player should they try to do so.
-
-| Property       | Status |
-|----------------|--------|
-| Squishable     | yes    |
-| Buttjumpable   | yes    |
-| Burnable       | yes    |
-| Freezable      | yes    |
-
-
 ---
 
 # Rooted Forest
@@ -233,13 +211,16 @@ Vicious Ivy
 ![](images/badguys/vicious_ivy_corrupted.gif)
 ![](images/badguys/vicious_ivy_glide_corrupted.gif)
 
-Character description...
+Vicious Ivy is a small leaf like creature that loves to hide in trees and bushes. They also use the forest winds to glide and hover above the ground for a while which is beautfiul to look at when there is a large group of them. We Granito like to keep them as pets. Since we are made of rock they cannot really harm us so we usually find their attempts to bite us rather cute. I do have my own little guy, whom I named "Vivi".
 
 ---
 
 ### Behavior During Gameplay
 
-Badguy gameplay description...
+Vicious Ivy behave similar to Mr. Snowball, that is a straight forward walking enemy. When reaching an edge they will instead slowy descend and continue walking on the platform below.
+
+To defeat them, simply jumping on them is simply enough.
+
 
 | Property       | Status |
 |----------------|--------|
@@ -256,13 +237,15 @@ Walking Leaf
 ![](images/badguys/walking_leaf_corrupted.gif)
 ![](images/badguys/walking_leaf_glide_corrupted.gif)
 
-Character description...
+Walking Leaf, not to be confused with their green cousins...
 
 ---
 
 ### Behavior During Gameplay
 
-Badguy gameplay description...
+Walking Leaf behave the same as Vicious Ivy, acting as their "smart variant" for Rooted Forest, meaning that they will turn around when approaching a ledge. However they will still slowy descend and continue walking on the platform below should they fall off it somehow.
+
+To defeat them, simply jumping on them is simply enough.
 
 | Property       | Status |
 |----------------|--------|
@@ -279,7 +262,7 @@ Leafshot
 
 Character description...
 
----
+A Vicious Ivy that decided falling from a tree is not the most exciting part in life went ahead and hoped to one day be shot back into a tree. Sadly, the lack of hands makes it impossible for Leafshot to point the cannon upwards. Thus the cannon only shoots him out in a straight line until crashing.
 
 ### Behavior During Gameplay
 
@@ -382,13 +365,13 @@ Owl
 
 ![](images/badguys/owl.gif)
 
-Character description...
+The Owls can be heard everywhere during the night in Rooted Forest. There used to be a time where many of their parliament were obducted or attacked by Zeeklings rather frequently. This caused them to become rather paranoid, attacking anyone that was not part of their kind. We decided it was best to just let them be. It's nothing personal but an intruder is an intruder, atleast that's what I hope they think.
 
 ---
 
 ### Behavior During Gameplay
 
-Badguy gameplay description...
+Owl flys high above Tux carrying a Skydive. Once Tux is close enough they will drop their Skydive whilst continuing onwards themselves.
 
 | Property       | Status |
 |----------------|--------|
@@ -402,7 +385,7 @@ Zeekling
 
 ![](images/badguys/zeekling.gif)
 
-Character description...
+Zeeklings sure are vicious creatures charging at anything that moves in their line of sight. If it weren't for them, Rooted Forest would be much more secure and calm place to live in. You will get used to it over time but they are still very much a pain to deal with.
 
 ---
 
