@@ -194,8 +194,8 @@ Spiky behaves exactly like a Mr. Snowball but is immune to jumping and buttjumpi
 
 | Property       | Status |
 |----------------|--------|
-| Squishable     | yes    |
-| Buttjumpable   | yes    |
+| Squishable     | no     |
+| Buttjumpable   | no     |
 | Burnable       | yes    |
 | Freezable      | yes    |
 
@@ -334,8 +334,8 @@ Badguy gameplay description...
 
 | Property       | Status |
 |----------------|--------|
-| Squishable     | yes    |
-| Buttjumpable   | yes    |
+| Squishable     | no     |
+| Buttjumpable   | no     |
 | Burnable       | yes    |
 | Freezable      | yes    |
 
@@ -560,8 +560,8 @@ Dive Mine remains stationary in the water floating up and down ever so slightly.
 
 | Property       | Status |
 |----------------|--------|
-| Squishable     | no     |
-| Buttjumpable   | no     |
+| Squishable     | yes    |
+| Buttjumpable   | yes    |
 | Burnable       | yes    |
 | Freezable      | yes    |
 
