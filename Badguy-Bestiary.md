@@ -279,7 +279,7 @@ Mr. Tree
 ========
 
 ![](images/badguys/mr_tree.gif)
-![](images/badguys/stumpy.gif)
+![](images/badguys/mr_tree_stumpy.gif)
 ![](images/badguys/mr_tree_corrupted.gif)
 
 Character description...
