@@ -11,7 +11,6 @@ World 1 - Icy Island
 --------------------
 
 The music of Icy Island should properly represent Tux's homeland. A familiar and vivid winter wonderland.
-
 Only the icy caves and underwater themes should be more calm and reserved for the most part, but still keep
 a similar spirit overall. The castle and (potentially) the outpost themes being the only truly intense themes of
 world 1 (the current `airship_remix.ogg` has a fitting vibe for the outpost so it could be used as a reference point here)!
@@ -74,7 +73,7 @@ World 2.5 - Corrupted Forest
 ----------------------------
 
 The music of the Corrupted Forest should reflect the emptiness and lifelessness of the once bright and
-vibrant forest - focusing more on the uncertainty of what happened for the more "calm" ominous and slow
+vibrant forest - focusing more on the uncertainty of what happened for the more "calm", ominous and slow
 paced themes, with the faster paced themes focusing more on the destruction and horrifying attributes of
 the corruption.
 
