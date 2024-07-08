@@ -39,7 +39,7 @@ Badguy gameplay description...
 The snow family of creatures is the most common group Tux encounters during his journey on Icy Island. They used to be quite friendly and curious beings before being forced by Nolok to gone on the attack. Ocassionally equipped with the occassional spiky or flying gear, the snowballs follow the commands of their captains in the hopes to return to their carefree lives after a job well done.
 
 Mr. Snowball
-===========
+============
 
 ![](images/badguys/mr_snowball.gif)
 
@@ -83,7 +83,7 @@ Captain Snowball
 
 ![](images/badguys/captain_snowball.gif)
 
-Captain Snowball is proud leader of their kind. They do not enjoy sending their friends into a fight with this penguin however, knowing whhat awaits them if they don't, they got no other choice and hope it will all be over soon.
+Captain Snowball is a proud leader of their kind. They do not enjoy sending their friends into a fight with this penguin, Tux, however, knowing what awaits them if they don't, they got no other choice and hope it will all be over soon.
 
 ---
 
@@ -103,7 +103,7 @@ Bouncing Snowball
 
 ![](images/badguys/bouncing_snowball.gif)
 
-Bouncing Snowball does not believe in flying gear. They believe in ones own strength and thus try to prove that they can reach great highst with a simple , yet strong bounce!
+Bouncing Snowball does not believe in flying gear. They believe in ones own strength and thus try to prove that they can reach great heights with a simple, yet strong bounce!
 
 ---
 
@@ -237,7 +237,7 @@ Walking Leaf
 ![](images/badguys/walking_leaf_corrupted.gif)
 ![](images/badguys/walking_leaf_glide_corrupted.gif)
 
-Walking Leaf, not to be confused with their green cousins...
+Walking Leaf, not to be confused with their green cousins, yet quite similar in nature. They are especially common during fall as they blend in quite nicely with their enviorment. If you're wondering whether or not Walking Leaf and Vicious Ivy get along - they do! Atleast my sweet Vivi seems to not be bothered by them and I yet have to see two of them fighting.
 
 ---
 
@@ -282,7 +282,7 @@ Mr. Tree
 ![](images/badguys/mr_tree_stumpy.gif)
 ![](images/badguys/mr_tree_corrupted.gif)
 
-Character description...
+What makes the forest of Rooted Forest feel so alive? Why our livly Mr. Trees of course! There is nothing more lively then a living tree itself. Just make sure you don't bump into one, they might run over you as they are often preoccupied mentally with all the Vicious Ivys bustling amongst their luscious leaves.
 
 ---
 
@@ -324,7 +324,9 @@ Igel
 ![](images/badguys/igel.gif)
 ![](images/badguys/igel_corrupted.gif)
 
-Character description...
+Igel can be found plentiful across our vast forests, both on the surface as well as underground. Cute little guys those Igel. Don't be too harsh on them should one roll into you. They are easily scared and only wish to defend themselves. It's nothing personal.
+
+Because they are of organic matter, the corruption hit Igel amongst the hardest. I will never forget witnessing my very first Corrupted Igel. Poor soul...
 
 ---
 
@@ -345,7 +347,9 @@ Mole
 ![](images/badguys/mole.gif)
 ![](images/badguys/root_sapling.gif)
 
-Character description...
+Mainly found underground, Moles ocassionally show their cute little faces peeking out of their little mole hills. They are always so pre occupied with digging they don't pay much attention to where they throw their rocks and dirt. Just be careful, they mean no harm. I once was visited by a family of moles when they found themselves digging into my basement walls. A funny sight to behold.
+
+I don't even wanna think about their fate when the Corruption struck. When you live soley underground... it's a trajedy, if you think about it...
 
 ---
 
@@ -385,7 +389,7 @@ Zeekling
 
 ![](images/badguys/zeekling.gif)
 
-Zeeklings sure are vicious creatures charging at anything that moves in their line of sight. If it weren't for them, Rooted Forest would be much more secure and calm place to live in. You will get used to it over time but they are still very much a pain to deal with.
+Zeeklings sure are vicious creatures charging at anything that moves in their line of sight. If it weren't for them, Rooted Forest would be much more secure and calm place to live in. You will get used to it over time but they are still very much a pain to deal with. On the other hand though, they look so cute, don't you think?
 
 ---
 
@@ -414,7 +418,7 @@ Jumpy
 ![](images/badguys/corruptjumpy.png)
 ![](images/badguys/metaljumpy.png)
 
-Jumpy is a really a person but a common title used to discribe those using a spring mechanicsm to achive impressive height. In Icy Island this tile was giving to the snowballs using a modfied "Spiky" armor to imcorporate a spring. The ones in Rooted Forest are a mystery to many. It is unclear who or what they are as they don't really seem faced by the corruption taking a hold of some of them. All that is known about them is that they arrived soon after Nolok sat foot on that part of the world. Metaljumpy are of Nolok's own design, inspured by the original Totemjumpy from his home.
+Jumpy is a really a creature then it is a common title used to discribe those using a spring mechanicsm to achive impressive height. In Icy Island this title was giving to the snowballs using a modfied "Spiky" armor to imcorporate a spring. The ones in Rooted Forest are still a mystery to many. It is unclear who or what they are as they don't really seem faced by the corruption taking a hold of some of them. All that is known about them is that they arrived soon after Nolok sat foot on that part of the world. Metaljumpy are of Nolok's own design, inspired by the original Totemjumpy from his home.
 
 ---
 
@@ -463,7 +467,7 @@ Mr. Bomb
 
 ![](images/badguys/mr_bomb.gif)
 
-Mr. Bomb is the most common bomb type of Nolok's forces. Like all others, they we're contructed in the Bomb Factory, succeeding their original model.
+Mr. Bomb is the most common bomb type of Nolok's forces. Like all others, they we're contructed in the Bomb Factory, succeeding their original model. They take their job very serious and try their best to be of great service to Nolok. I doubt he cares much, based on what we know of him.
 
 ---
 
@@ -506,7 +510,7 @@ Haywire
 ![](images/badguys/haywire.gif)
 ![](images/badguys/haywire_enraged.gif)
 
-Haywire is a funny little fellow who appears to the most joyful of all the bombs. That is only partly true as Haywire also seems to suffer some being rather easily infuriated. The slightest touch will turn their jolly nature into a vilont outburst of anger that can affect anyone involved. It is adicved to not stand in their way if you find yourself near an enraged Haywire as they WILL know no mercy. If you are the one to have enraged them, your best chance of surivival is to run as fast as you can to not surcome to their kamikaze attempt.
+Haywire is a funny little fellow who appears to be the most joyful of all the bombs. That is only partly true as Haywire also seems to suffer some being rather easily infuriated. The slightest touch will turn their jolly nature into a vilont outburst of anger that can affect anyone involved. It is adicved to not stand in their way if you find yourself near an enraged Haywire as they WILL know no mercy. If you are the one to have enraged them, your best chance of surivival is to run as fast as you can to not surcome to their kamikaze attempt.
 
 ---
 
@@ -528,7 +532,7 @@ Gold Bomb
 ![](images/badguys/gold_bomb.gif)
 ![](images/badguys/gold_bomb_scared.gif)
 
-Gold Bomb
+Gold Bomb's shiny shell isn't doing them any favors. If anything they are a walking target which might explain why they are so easily scared. They usually hide away out of sight in hopes to get some peace and quite and avoid detection. Last time a Gold Bomb was spotted in the open, they bumped into a Haywire by accident and got chased down a cliff soon after. Whenever I find a coin out in the open it makes me wonder...
 
 ---
 
@@ -550,7 +554,7 @@ Dive Mine
 ![](images/badguys/dive_mine.gif)
 ![](images/badguys/dive_mine_ticking.gif)
 
-Dive Mine are Nolok's aquatic bomb unit. Considering not much is happening in the water most of time they are very eager when something finally happens. Where as Haywire despies any form of unauthorized touch, Dive Mine are almost seeking out attention. Despite those differences both Dive Mine and Haywire would consider the other their best friend.
+Dive Mine are Nolok's aquatic bomb unit. Considering not much is happening in the water most of time they are very eager when something finally does happen. Where as Haywire despies any form of unauthorized touch, Dive Mine are almost seeking it out. Despite those differences, both Dive Mine and Haywire would consider the other their best friend.
 
 ---
 
@@ -570,13 +574,53 @@ Short Fuse
 
 ![](images/badguys/short_fuse.gif)
 
-Short Fuse is a rather harmless little guy. Looking like a baby version of Mr. Bomb, most of the other bomb units treat them constantly like a child. That does not mean they bully them for being the small one but rather that tned to forget that even they can demonstare a good amount of force once detonated. Maybe not in distruction but in knockback.
+Short Fuse is a rather harmless little guy. Looking like a baby version of Mr. Bomb, most of the other bomb units treat them constantly like a child. That does not mean they bully them for being the small one but rather they tend to forget that even they can demonstrate a good amount of force once detonated. Maybe not in destruction but in knockback.
 
 ---
 
 ### Behavior During Gameplay
 
 Short Fuse walks back and forth, turning around when approaching ledges. Jumping on them will detonate them immideatly. However, instead of exploding Short Fuse will pop pushing Tux away
+
+| Property       | Status |
+|----------------|--------|
+| Squishable     | yes    |
+| Buttjumpable   | yes    |
+| Burnable       | yes    |
+| Freezable      | yes    |
+
+Hellbent
+========
+
+![](images/badguys/hellbent.gif)
+
+Hellbent are highly aggressive bombs, souly focused on their task at hand. Once the are locked on target, all you can do is run!
+
+---
+
+### Behavior During Gameplay
+
+Hellbent will permanetly chase down Tux when close by, though unlike Haywire, they will not explode after a certain amount of time. Once they start chasing Tux, Hellbent will only explode by contact with either Tux, another enemy or a solid wall.
+
+| Property       | Status |
+|----------------|--------|
+| Squishable     | yes    |
+| Buttjumpable   | yes    |
+| Burnable       | yes    |
+| Freezable      | yes    |
+
+Rusty Bomb
+==========
+
+![](images/badguys/rusty_bomb.gif)
+
+Not much is known about Rusty Bombs outside of its uses. It is even unclear rather or not they are even alive. Unlike their fellow bomb units, they seemingly show no sign of personallity nor emotion. Rusty Bombs may simpy be nothing but a transportation vessel for other bombs, specifically Hellbent. Only a few have been spotted in the Tropical Islands, near the temple but only from a far.
+
+---
+
+### Behavior During Gameplay
+
+Rusty Bomb slowly walks back and forth, turning around when approaching ledges. Jumping on them will light their fuse. Due to their size, Tux cannot throw them nor will he have much time to do so, as they will explode soon after being ignited. When they explode, they release 2 Hellbents that will chase down Tux.
 
 | Property       | Status |
 |----------------|--------|
